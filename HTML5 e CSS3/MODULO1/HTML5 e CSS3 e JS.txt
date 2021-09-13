@@ -1,0 +1,4 @@
+HTML: Conteúdo do site -> texto, imagens, vídeos, tabelas
+CSS: Design do site -> cores, posição, sombras, etc
+JS: Interações do site -> menus, animações, popups, validação
+
